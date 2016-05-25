@@ -3,3 +3,19 @@ body {
   background-size: 100%;
   /*background: black;*/
 }
+h1 {
+  font-size: 200%;
+  color: pink;
+}
+h2  {
+  font-size: 150%;
+  color: orange;
+}
+.best {
+  float: left;
+  font-family: cursive;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
